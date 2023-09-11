@@ -9,6 +9,8 @@
   "author": "gu nog",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^7.5.0"
+    "mongoose": "^7.5.0",
+    "nodemon": "^3.0.1"
   }
 }
+
